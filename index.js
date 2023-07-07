@@ -26,7 +26,7 @@ const unbindHook = (el, binding, vnode) => {
 // Create custom directive
 module.exports = {
   install: (Vue, options) => {    
-    styleElement = styleDomString();    
+    const styleElement = styleDomString();    
     document.body.appendChild(styleElement);
     document.onclick = window.onblur = () => {
       document.querySelectorAll('.v-contextmenu_main_v1').forEach(cr => {
