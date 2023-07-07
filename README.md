@@ -21,7 +21,7 @@ rich APIs, allows integration with existing Vue applications, and provides funct
 
 ## Installation
 
-```json
+```javascript
 npm i @zzlorz/v-contextmenu
 ```
 
