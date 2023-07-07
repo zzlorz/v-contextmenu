@@ -22,7 +22,7 @@ rich APIs, allows integration with existing Vue applications, and provides funct
 ## Installation
 
 ```json
-npm i v-contextmenu --save
+npm i @zzlorz/v-contextmenu
 ```
 
 
@@ -31,11 +31,11 @@ npm i v-contextmenu --save
 
 Import v-contextmenu into any file you are planning to use it:
 
-```json
+```javascript
 import contextmenu from 'v-contextmenu'
 ```
 
-```json
+```javascript
 const contextmenu = require('v-contextmenu')
 ```
 
