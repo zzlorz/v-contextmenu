@@ -32,7 +32,7 @@ npm i @zzlorz/v-contextmenu
 Import v-contextmenu into any file you are planning to use it:
 
 ```javascript
-import contextmenu from 'v-contextmenu'
+import contextmenu from '@zzlorz/v-contextmenu'
 ```
 
 ```javascript
